@@ -1,1 +1,1 @@
-a script that prints a file followed by a new line
+display the content of the file etc
